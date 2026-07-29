@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
- int main(){
+#include <climits>
+
+
+int main(){
     int marks[]={10,20,30,40,50};
     int size=5;
     int largest= INT_MIN;
